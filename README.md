@@ -1,0 +1,2 @@
+# basicNodeJs
+nodeJS init
